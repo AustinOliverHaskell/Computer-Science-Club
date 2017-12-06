@@ -1,0 +1,9 @@
+Spec for the MUN project
+
+Using 
+  Firebase
+  Javascript
+  Sass
+  Css
+  HTML
+  Bootstrap
